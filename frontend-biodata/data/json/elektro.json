@@ -1,0 +1,74 @@
+{
+    "elektro": [
+        {
+            "data": {
+                "nama": "Andri Kusuma Ramadhani",
+                "nim": "220101001",
+                "tanggalLahir": "15 Januari 2003 Jakarta",
+                "asal": "Jakarta",
+                "telepon": "+62 812-3456-7890"
+            },
+            "foto": "/images/elektro/73.jpeg"
+        },
+        {
+            "data": {
+                "nama": "Ahmad Rizki Pratama",
+                "nim": "220101001",
+                "tanggalLahir": "15 Januari 2003 Jakarta",
+                "asal": "Jakarta",
+                "telepon": "+62 812-3456-7890"
+            },
+            "foto": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        },
+        {
+            "data": {
+                "nama": "Siti Nurhaliza",
+                "nim": "220101002", 
+                "tanggalLahir": "22 Februari 2003 Bandung",
+                "asal": "Bandung",
+                "telepon": "+62 813-4567-8901"
+            },
+            "foto": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        },
+        {
+            "data": {
+                "nama": "Budi Santoso",
+                "nim": "220101003",
+                "tanggalLahir": "10 Maret 2003 Surabaya", 
+                "asal": "Surabaya",
+                "telepon": "+62 814-5678-9012"
+            },
+            "foto": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        },
+        {
+            "data": {
+                "nama": "Dewi Lestari",
+                "nim": "220101004",
+                "tanggalLahir": "5 April 2003 Yogyakarta",
+                "asal": "Yogyakarta", 
+                "telepon": "+62 815-6789-0123"
+            },
+            "foto": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        },
+        {
+            "data": {
+                "nama": "Rian Aditya",
+                "nim": "220101005",
+                "tanggalLahir": "18 Mei 2003 Medan",
+                "asal": "Medan",
+                "telepon": "+62 816-7890-1234"
+            },
+            "foto": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        },
+        {
+            "data": {
+                "nama": "Lina Marlina",
+                "nim": "220101006",
+                "tanggalLahir": "30 Juni 2003 Semarang",
+                "asal": "Semarang",
+                "telepon": "+62 817-8901-2345"
+            },
+            "foto": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
+        }
+    ]
+}
