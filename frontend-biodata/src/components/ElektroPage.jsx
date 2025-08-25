@@ -6,14 +6,21 @@ const ElektroPage = () => {
 const [biodataData, setBiodataData] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
 
-  useEffect(() => {
+    useEffect(() => {
     const fetchData = async () => {
       try {
+        setIsLoading(true);
         const response = await fetch('/data/json/elektro.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
         const data = await response.json();
-        setBiodataData(data.elektro);
+        setBiodataData(data.elektro || []);
       } catch (error) {
         console.error('Error fetching data:', error);
+        setError('Failed to load data. Please try again later.');
+      } finally {
+        setIsLoading(false);
       }
     };
 
